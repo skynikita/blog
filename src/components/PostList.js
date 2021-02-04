@@ -11,6 +11,7 @@ class PostList extends React.Component
     render() {
      return <div>
          Post List
+         TEST 123
      </div>
  }
 }
